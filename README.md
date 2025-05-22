@@ -45,6 +45,10 @@ A página inicial apresenta uma visão geral do W1 Holdings Manager, destacando:
 - Recursos principais
 - Estatísticas básicas sobre patrimônio, holdings e empresas
 - Links para login e registro
+![image](https://github.com/user-attachments/assets/44870c2c-adb5-43b5-8842-28256c4b4cb0)
+![image](https://github.com/user-attachments/assets/79ec5f61-72a3-45cd-91ae-b833c9ea1d06)
+
+
 
 
 **Como acessar:** Esta é a primeira página que aparece ao entrar no site.
@@ -60,6 +64,9 @@ Esta página permite que usuários existentes acessem suas contas.
 - Clique no botão "Acessar Plataforma" na página inicial
 - Ou navegue diretamente para `/login` na URL
 
+  ![image](https://github.com/user-attachments/assets/5e39dc30-2c1f-4c9c-ad76-e4333b9f97b4)
+
+
 
 **Funcionalidades:**
 
@@ -71,6 +78,10 @@ Esta página permite que usuários existentes acessem suas contas.
 ### Dashboard Principal
 
 **URL:** `/dashboard`
+![image](https://github.com/user-attachments/assets/4da475b8-01e4-4d2b-9dfd-8e2fa3c8212a)
+
+![image](https://github.com/user-attachments/assets/a5c468e2-64d6-42f6-94bd-b27a9dcb6590)
+
 
 O dashboard é o centro de controle principal após o login, oferecendo:
 
@@ -85,6 +96,7 @@ O dashboard é o centro de controle principal após o login, oferecendo:
 
 - Faça login através da página de login
 - O sistema redirecionará automaticamente para o dashboard
+- Ou navegue diretamente para `/dashboard` na URL
 
 
 ### Páginas Específicas do Dashboard
